@@ -1,28 +1,45 @@
+/* Ustawienia ogólne */
+body {
+    background-color: #1e1e2d; /* Ciemny granat/fiolet */
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Nagłówki */
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+
 /* Kontener na produkty */
 .product-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 25px;
     padding: 20px;
 }
 
 /* Stylizacja karty produktu - Soft UI */
 .product-card {
-    background: #292b3a;
+    background: #2a2a3a;
     padding: 20px;
-    border-radius: 20px;
-    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.4), -8px -8px 15px rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5), -5px -5px 15px rgba(255, 255, 255, 0.05);
     text-align: center;
     color: white;
-    width: 240px;
+    width: 230px;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
     border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .product-card:hover {
     transform: scale(1.05);
-    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.5), -12px -12px 20px rgba(255, 255, 255, 0.1);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6), -10px -10px 20px rgba(255, 255, 255, 0.1);
 }
 
 /* Stylizacja obrazu produktu */
@@ -31,13 +48,6 @@
     height: auto;
     border-radius: 15px;
     margin-bottom: 15px;
-}
-
-/* Stylizacja tytułu produktu */
-.product-card h3 {
-    font-size: 18px;
-    margin: 10px 0;
-    font-weight: bold;
 }
 
 /* Stylizacja opisu */
@@ -58,7 +68,7 @@
 
 /* Przycisk dodania do koszyka */
 .add-to-cart {
-    background: linear-gradient(145deg, #ff6600, #ff3300);
+    background: linear-gradient(145deg, #ff5500, #ff2200);
     border: none;
     padding: 12px;
     cursor: pointer;
@@ -68,9 +78,9 @@
     font-weight: bold;
     font-size: 14px;
     transition: 0.3s;
-    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4), -4px -4px 8px rgba(255, 255, 255, 0.1);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5), -4px -4px 10px rgba(255, 255, 255, 0.1);
 }
 
 .add-to-cart:hover {
     background: linear-gradient(145deg, #ff3300, #ff1100);
-    transform: translateY(-2px);
+    transform: translateY(-3px);
