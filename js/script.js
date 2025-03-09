@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function () {
-    // Lista produktów
     const products = [
         {
             name: "Bang 18 000 Puffs - Mint Ice",
@@ -27,10 +26,8 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     ];
 
-    // Pobranie kontenera produktów
     const productContainer = document.querySelector(".product-list");
 
-    // Generowanie kart produktów
     products.forEach(product => {
         const productCard = document.createElement("div");
         productCard.classList.add("product-card");
