@@ -1,0 +1,123 @@
+produkty.html
+HTML
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Lista dostępnych produktów w Vape-me.">
+    <title>Produkty - Vape-me</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body role="main">
+    <h1>Produkty</h1>
+    <p>Lista dostępnych produktów.</p>
+    <a href="index.html">Powrót do strony głównej</a>
+</body>
+</html>
+
+Public code references from 1 repository
+
+koszyk.html
+HTML
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Twój koszyk w Vape-me.">
+    <title>Koszyk - Vape-me</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body role="main">
+    <h1>Koszyk</h1>
+    <p>Twój koszyk jest pusty.</p>
+    <a href="index.html">Powrót do strony głównej</a>
+</body>
+</html>
+
+Public code references from 1 repository
+
+kontakt.html
+HTML
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Skontaktuj się z Vape-me.">
+    <title>Kontakt - Vape-me</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body role="main">
+    <h1>Kontakt</h1>
+    <p>Skontaktuj się z nami pod adresem email: kontakt@vape-me.shop</p>
+    <a href="index.html">Powrót do strony głównej</a>
+</body>
+</html>
+
+Public code references from 1 repository
+HTML
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Lista dostępnych produktów w Vape-me.">
+    <title>Produkty - Vape-me</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body role="main">
+    <h1>Produkty</h1>
+    <p>Lista dostępnych produktów.</p>
+    <a href="index.html">Powrót do strony głównej</a>
+</body>
+</html>
+
+Public code references from 1 repository
+
+    github.com/jankess/voteonline license
+
+HTML
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Twój koszyk w Vape-me.">
+    <title>Koszyk - Vape-me</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body role="main">
+    <h1>Koszyk</h1>
+    <p>Twój koszyk jest pusty.</p>
+    <a href="index.html">Powrót do strony głównej</a>
+</body>
+</html>
+
+Public code references from 1 repository
+
+HTML
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Skontaktuj się z Vape-me.">
+    <title>Kontakt - Vape-me</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body role="main">
+    <h1>Kontakt</h1>
+    <p>Skontaktuj się z nami pod adresem email: kontakt@vape-me.shop</p>
+    <a href="index.html">Powrót do strony głównej</a>
+</body>
+</html>
+
+Public code references from 1 repository
